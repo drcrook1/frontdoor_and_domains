@@ -1,0 +1,1 @@
+az deployment sub create --template-file ./biceps/main-deployment.bicep --location eastus --parameters resourcePrefix=dacrook
